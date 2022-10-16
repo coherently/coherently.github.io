@@ -30,7 +30,7 @@ tagline: A Blog discussing Quantum Computing, Artificial Intelligence, etc.    #
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://coherently.github.io'
-
+baseurl: ""
 # github:
 #   username: github_username             # change to your github username
 
